@@ -1,0 +1,8 @@
+cmake-build-debug/
+cmake-build-debug-event-trace/
+cmake-build-wsl_profile/
+.vscode/
+.idea
+CMakeLists.txt
+outputfile
+my_tests/
